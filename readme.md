@@ -1,6 +1,6 @@
 # Learning To Code
 
-######***UPDATE: I do not keep working with this repository because it turned a little messy over time. Consider that this folder was my first 'try' with GitHub and git. Sorry for the mess...***
+***UPDATE: I do not keep working with this repository because it turned a little messy over time. Consider that this folder was my first 'try' with GitHub and git. Sorry for the mess...***
 
 
 ## Description
